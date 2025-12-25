@@ -13,24 +13,29 @@
 
 ## Installation / Lancement
 
-1. **Télécharger l'archive ZIP et extraire les fichiers.**
-
+1. **Télécharger l'archive ZIP et extraire les fichiers.***
 
 ## Structure du projet
 
 .
 ├── audio
 │   └── Champions League Anthem (Full Version).mp3
+├── ball.svg
 ├── footballtrophy.html
+├── goal-keeper.svg
 ├── README.md
 ├── script.js
 └── style.css
-
 
 ## Ouvrir le jeu
 
 - Double-cliquer sur `footballtrophy.html` ou ouvrir le fichier dans un navigateur moderne (Chrome, Firefox).  
 - Le jeu devrait se lancer directement dans le navigateur.
+
+## Ouvrir le jeu depuis Bash 
+
+- Naviguer dans le dossier FootballTrophy **cd FootballTrophy**
+- Lancer la commande **google-chrome footballtrophy.html** ou **firefox footballtrophy.html** en fonction du navigateur souhaité
 
 ## Contrôles
 
@@ -52,11 +57,10 @@
 - HTML5  
 - CSS3  
 - JavaScript 
-- Audio 
 
-## Personnalisation
-
-- **Changer la musique** : remplacer le fichier `Champions League Anthem (Full Version).mp3` dans le dossier `audio`. 
-- **Modifier le style du jeu** : éditer `style.css`.  
-- **Modifier la vitesse ou fréquence des balles** : ajuster les variables `ball.speed` et `setInterval(createBall, 1000)` dans `script.js`.
+## Mes informations 
+- **Nom et Prénoms** : Gloria Enagnon AGO  
+- **Adresse mail** : enagnon.ago@epitech.eu  
+- **LinkedIn** : www.linkedin.com/in/gloria-enagnon-ago-65345421b
+- **Numéro** : +229 01 61 85 48 48
 
