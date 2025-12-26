@@ -60,7 +60,7 @@ class FootballTrophy {
     
     createBall() {
         const ballElement = document.createElement("img");
-        ballElement.src = "ball.svg";
+        ballElement.src = "images/ball.svg";
         ballElement.className = "ball";
         ballElement.style.position = "absolute";
         ballElement.style.width = "35px";

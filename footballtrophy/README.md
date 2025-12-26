@@ -37,12 +37,12 @@
 - Naviguer dans le dossier FootballTrophy **cd FootballTrophy**
 - Lancer la commande **google-chrome footballtrophy.html** ou **firefox footballtrophy.html** en fonction du navigateur souhaité
 
-### Déplacement du joueur
+## Déplacement du joueur
 
 - **Flèche gauche** : se déplacer vers la gauche  
 - **Flèche droite** : se déplacer vers la droite
 
-### Boutons du panneau droit
+## Boutons du panneau droit
 
 - **Jouer** : démarrer une partie  
 - **Pause** : mettre le jeu en pause  
@@ -52,8 +52,8 @@
 
 ## Technologies utilisées
 
-- HTML5  
-- CSS3  
+- HTML  
+- CSS  
 - JavaScript 
 
 ## Mes informations 
