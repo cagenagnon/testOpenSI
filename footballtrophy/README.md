@@ -37,8 +37,6 @@
 - Naviguer dans le dossier FootballTrophy **cd FootballTrophy**
 - Lancer la commande **google-chrome footballtrophy.html** ou **firefox footballtrophy.html** en fonction du navigateur souhaité
 
-## Contrôles
-
 ### Déplacement du joueur
 
 - **Flèche gauche** : se déplacer vers la gauche  

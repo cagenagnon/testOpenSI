@@ -21,7 +21,7 @@ class FootballTrophy {
             y: this.scene.clientHeight - 50,
             width: 50,
             height: 50,
-            speed: 8,
+            speed: 15,
             element: this.playerImg
         };
         
