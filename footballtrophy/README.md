@@ -20,9 +20,10 @@
 .
 ├── audio
 │   └── Champions League Anthem (Full Version).mp3
-├── ball.svg
 ├── footballtrophy.html
-├── goal-keeper.svg
+├── images
+│   ├── ball.svg
+│   └── goal-keeper.svg
 ├── README.md
 ├── script.js
 └── style.css
